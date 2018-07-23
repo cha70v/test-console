@@ -3,3 +3,11 @@ body {
 	font-family: sans-serif;
 	font-style: ;24px;
 }
+
+.page-header {
+	background-color: #baba55;
+}
+
+.promo {
+	display: block;
+}
